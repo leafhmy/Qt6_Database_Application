@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/icon/cut.png</file>
+        <file>Resources/icon/file-text-o.png</file>
+        <file>Resources/icon/folder-open.png</file>
+        <file>Resources/icon/fullscreen.png</file>
+        <file>Resources/icon/login.png</file>
+        <file>Resources/icon/paste.png</file>
+        <file>Resources/icon/refresh.png</file>
+        <file>Resources/icon/remove.png</file>
+        <file>Resources/icon/reply.png</file>
+        <file>Resources/icon/rotate-left.png</file>
+        <file>Resources/icon/rotate-right.png</file>
+        <file>Resources/icon/save.png</file>
+        <file>Resources/icon/share.png</file>
+        <file>Resources/icon/connect.png</file>
+        <file>Resources/icon/user.png</file>
+        <file>Resources/icon/user2_90.png</file>
+        <file>Resources/icon/table.png</file>
+        <file>Resources/icon/add.png</file>
+        <file>Resources/icon/edit.png</file>
+        <file>Resources/icon/submit.png</file>
+        <file>Resources/icon/fund.png</file>
+        <file>Resources/icon/order.png</file>
+        <file>Resources/icon/query.png</file>
+        <file>Resources/icon/sell.png</file>
+        <file>Resources/icon/wtf.png</file>
+        <file>Resources/icon/filter.png</file>
+        <file>Resources/icon/orderdata.png</file>
+        <file>Resources/icon/asc.png</file>
+        <file>Resources/icon/desc.png</file>
+        <file>Resources/icon/welcome.png</file>
+    </qresource>
+</RCC>
